@@ -1,0 +1,2 @@
+Add a cube, (0,0,0)
+Add directional light (0,0,0)
